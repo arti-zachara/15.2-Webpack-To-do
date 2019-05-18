@@ -4,7 +4,8 @@
   "description": "Kodilla tasks 16.4-16.7 - Webpack, loaders, configuration : TODO app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
@@ -22,13 +23,20 @@
   },
   "homepage": "https://github.com/arti-zachara/15.2-Webpack-To-do#readme",
   "devDependencies": {
-    "@babel/core": "^7.3.3",
-    "@babel/preset-env": "^7.3.1",
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.0.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "css-loader": "^2.1.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
   }
 }

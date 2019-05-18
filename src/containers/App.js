@@ -1,5 +1,6 @@
 import React from "react";
 import uuid from "uuid";
+import style from "./App.css";
 // ----------------- imports end ------------------------
 
 class App extends React.Component {
@@ -27,6 +28,7 @@ class App extends React.Component {
   }
 
   render() {
+    // style.TodoApp - loader css
     return <div className={style.TodoApp}>app's components</div>;
   }
 }

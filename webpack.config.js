@@ -4,17 +4,26 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "build"),
-    filename: "app.bundle.js"
+    filename: "index.boundle.js"
   },
   module: {
     rules: [
       {
         test: /\.js$/,
-        loader: "babel-loader",
-        exclude: "node_modules",
-        options: {
-          presets: ["env"]
-        }
+        exclude: /node_modules/,
+        loader: "babel-loader"
+      },
+      {
+        test: /\.css$/,
+        use: [
+          { loader: "style-loader" },
+          {
+            loader: "css-loader",
+            options: {
+              modules: true
+            }
+          }
+        ]
       }
     ]
   }
