@@ -30,7 +30,14 @@ class App extends React.Component {
 
   render() {
     // style.TodoApp - loader css
-    return <div className={style.TodoApp}>app's components</div>;
+    return (
+      <div className={style.TodoApp}>
+        <Title
+          title="Webpack practice: ToDo app"
+          number={this.state.data.length}
+        />
+      </div>
+    );
   }
 }
 
