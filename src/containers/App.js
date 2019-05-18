@@ -1,6 +1,7 @@
 import React from "react";
 import uuid from "uuid";
 import style from "./App.css";
+import Title from "../components/Title";
 // ----------------- imports end ------------------------
 
 class App extends React.Component {
