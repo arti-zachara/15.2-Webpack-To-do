@@ -1,0 +1,24 @@
+{
+  "name": "16.2",
+  "version": "1.0.0",
+  "description": "Kodilla tasks 16.4-16.7 - Webpack, loaders, configuration : TODO app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/15.2-Webpack-To-do.git"
+  },
+  "keywords": [
+    "webpack",
+    "loaders",
+    "todo"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/15.2-Webpack-To-do/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/15.2-Webpack-To-do#readme"
+}
