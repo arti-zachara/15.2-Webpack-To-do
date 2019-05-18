@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/arti-zachara/15.2-Webpack-To-do/issues"
   },
-  "homepage": "https://github.com/arti-zachara/15.2-Webpack-To-do#readme"
+  "homepage": "https://github.com/arti-zachara/15.2-Webpack-To-do#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0"
+  }
 }
