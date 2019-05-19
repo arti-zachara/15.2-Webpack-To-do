@@ -4,7 +4,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "build"),
-    filename: "index.boundle.js"
+    filename: "app.boundle.js"
   },
   module: {
     rules: [
