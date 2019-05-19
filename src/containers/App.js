@@ -34,7 +34,7 @@ class App extends React.Component {
       <div className={style.TodoApp}>
         <Title
           title="Webpack practice: ToDo app"
-          number={this.state.data.length}
+          tasksNumber={this.state.data.length}
         />
       </div>
     );
