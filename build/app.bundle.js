@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._2mbEAfbhivWABR1Zzkkkec > h1 {\\r\\n  font-size: 36px;\\r\\n  color: #21a6c7;\\r\\n  text-transform: uppercase;\\r\\n  text-decoration: underline;\\r\\n  text-decoration-color: #208199;\\r\\n}\\r\\n\\r\\n._2mbEAfbhivWABR1Zzkkkec > p {\\r\\n  color: #208199;\\r\\n  font-size: 28px;\\r\\n  font-weight: bold;\\r\\n  text-align: center;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"appTitle\": \"_2mbEAfbhivWABR1Zzkkkec\"\n};\n\n//# sourceURL=webpack:///./src/components/Title.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._2mbEAfbhivWABR1Zzkkkec > h1 {\\r\\n  font-size: 36px;\\r\\n  color: #6e236e;\\r\\n  text-transform: uppercase;\\r\\n  text-decoration: underline;\\r\\n  text-decoration-color: #4f084f;\\r\\n  font-family: Georgia, serif;\\r\\n}\\r\\n\\r\\n._2mbEAfbhivWABR1Zzkkkec > p {\\r\\n  color: #4f084f;\\r\\n  font-size: 28px;\\r\\n  font-weight: bold;\\r\\n  text-align: center;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"appTitle\": \"_2mbEAfbhivWABR1Zzkkkec\"\n};\n\n//# sourceURL=webpack:///./src/components/Title.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
 
 /***/ }),
 
@@ -104,7 +104,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._2xo2biYT1s9XQmHhT2Utv5 {\\r\\n  background-color: #f5f5f5;\\r\\n  color: #222;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  flex-wrap: nowrap;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  align-content: center;\\r\\n  width: 100vw;\\r\\n  height: 100vh;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"TodoApp\": \"_2xo2biYT1s9XQmHhT2Utv5\"\n};\n\n//# sourceURL=webpack:///./src/containers/App.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._2xo2biYT1s9XQmHhT2Utv5 {\\r\\n  background-color: #f5f5f5;\\r\\n  color: #4f084f;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  flex-wrap: nowrap;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  align-content: center;\\r\\n  width: 100vw;\\r\\n  height: 100vh;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"TodoApp\": \"_2xo2biYT1s9XQmHhT2Utv5\"\n};\n\n//# sourceURL=webpack:///./src/containers/App.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
 
 /***/ }),
 

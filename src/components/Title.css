@@ -1,13 +1,14 @@
 .appTitle > h1 {
   font-size: 36px;
-  color: #21a6c7;
+  color: #6e236e;
   text-transform: uppercase;
   text-decoration: underline;
-  text-decoration-color: #1a738a;
+  text-decoration-color: #4f084f;
+  font-family: Georgia, serif;
 }
 
 .appTitle > p {
-  color: #1a738a;
+  color: #4f084f;
   font-size: 28px;
   font-weight: bold;
   text-align: center;
