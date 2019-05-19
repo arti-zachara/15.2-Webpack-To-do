@@ -1,4 +1,6 @@
 const path = require("path");
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+const OptimizeJsPlugin = require("optimize-js-plugin");
 
 module.exports = env => {
   return {
@@ -29,6 +31,16 @@ module.exports = env => {
           ]
         }
       ]
-    }
+    },
+    plugins: [
+      new HtmlWebpackPlugin({
+        template: "./src/index.html",
+        filename: "index.html",
+        inject: "body"
+      }),
+      new OptimizeJsPlugin({
+        sourceMap: false
+      })
+    ]
   };
 };
