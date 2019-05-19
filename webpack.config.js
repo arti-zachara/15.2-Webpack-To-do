@@ -7,7 +7,7 @@ module.exports = env => {
 
     output: {
       path: path.resolve(__dirname, "build"),
-      filename: "index.boundle.js"
+      filename: "app.bundle.js"
     },
     module: {
       rules: [
