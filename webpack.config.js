@@ -12,6 +12,7 @@ const plugins = [
 
 // ---------------------- module export ---------------------------
 module.exports = env => {
+  const environment = env || "production";
   // used only in production - optimization of js code
   if (env === "production") {
     plugins.push(
@@ -22,12 +23,12 @@ module.exports = env => {
   }
 
   return {
-    mode: env || "production",
+    mode: environment,
     entry: "./src/index.js",
 
     output: {
       path: path.resolve(__dirname, "build"),
-      filename: "app.bundle.js"
+      filename: "app." + environment + ".bundle.js"
     },
     module: {
       rules: [
