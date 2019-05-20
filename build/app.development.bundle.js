@@ -97,6 +97,39 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/cjs.js?!./src/components/Todo.css":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/components/Todo.css ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"li {\\r\\n  margin: 2px auto;\\r\\n  padding: 3px 6px;\\r\\n  display: flex;\\r\\n  justify-content: space-between;\\r\\n  border: solid 1px #8b488b;\\r\\n  border-radius: 5px;\\r\\n  background-color: #d0b3d0;\\r\\n  font-size: 20px;\\r\\n  font-weight: bold;\\r\\n  color: #4f084f;\\r\\n}\\r\\n\\r\\nli button._3xk6FdaUXEq2PkaAhEWGvw {\\r\\n  margin-left: 10px;\\r\\n  padding: 5px;\\r\\n  color: #4f084f;\\r\\n  font-weight: bold;\\r\\n  border: solid 1px #8b488b;\\r\\n  border-radius: 5px;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"removeItem\": \"_3xk6FdaUXEq2PkaAhEWGvw\"\n};\n\n//# sourceURL=webpack:///./src/components/Todo.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./src/components/TodoForm.css":
+/*!*************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/components/TodoForm.css ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"form.yXMu_0fuWjXAtPeRgWNlz {\\r\\n  background-color: #a775a7;\\r\\n  border: 1px solid #4f084f;\\r\\n  border-radius: 5px;\\r\\n  padding: 8px;\\r\\n  width: 360px;\\r\\n  max-width: 80vw;\\r\\n}\\r\\n\\r\\nform.yXMu_0fuWjXAtPeRgWNlz input {\\r\\n  font-size: 18px;\\r\\n  border: 1px solid #4f084f;\\r\\n  border-radius: 5px;\\r\\n  width: 80%;\\r\\n}\\r\\n\\r\\nform.yXMu_0fuWjXAtPeRgWNlz button {\\r\\n  margin-left: 10px;\\r\\n  padding: 3px 12px;\\r\\n  font-size: 16px;\\r\\n  color: white;\\r\\n  background-color: #8b488b;\\r\\n  border: 1px solid #4f084f;\\r\\n  border-radius: 5px;\\r\\n  outline: none;\\r\\n  float: right;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"TodoForm\": \"yXMu_0fuWjXAtPeRgWNlz\"\n};\n\n//# sourceURL=webpack:///./src/components/TodoForm.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./src/components/TodoList.css":
+/*!*************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/components/TodoList.css ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"ul {\\r\\n  padding: 0;\\r\\n  list-style-type: none;\\r\\n  width: 300px;\\r\\n  max-width: 80vw;\\r\\n}\\r\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/TodoList.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js?!./src/containers/App.css":
 /*!********************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/containers/App.css ***!
@@ -105,17 +138,6 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._2xo2biYT1s9XQmHhT2Utv5 {\\r\\n  background-color: #f5f5f5;\\r\\n  color: #4f084f;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  flex-wrap: nowrap;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  align-content: center;\\r\\n  width: 100vw;\\r\\n  height: 100vh;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"TodoApp\": \"_2xo2biYT1s9XQmHhT2Utv5\"\n};\n\n//# sourceURL=webpack:///./src/containers/App.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js?!./src/containers/TodoList.css":
-/*!*************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/containers/TodoList.css ***!
-  \*************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"ul {\\r\\n  padding: 0;\\r\\n  list-style-type: none;\\r\\n  width: 300px;\\r\\n  max-width: 80vw;\\r\\n  font-size: 20px;\\r\\n}\\r\\n\\r\\nul li {\\r\\n  margin: 2px auto;\\r\\n  padding: 3px;\\r\\n  display: flex;\\r\\n  justify-content: space-between;\\r\\n  border: solid 1px #8b488b;\\r\\n  border-radius: 5px;\\r\\n  background-color: #d0b3d0;\\r\\n}\\r\\n\\r\\nul button {\\r\\n  margin: 0 15px;\\r\\n  padding: 5px;\\r\\n  color: #4f084f;\\r\\n  font-weight: bold;\\r\\n  border: solid 1px #8b488b;\\r\\n  border-radius: 5px;\\r\\n}\\r\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/containers/TodoList.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
 
 /***/ }),
 
@@ -374,6 +396,75 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 
 /***/ }),
 
+/***/ "./src/components/Todo.css":
+/*!*********************************!*\
+  !*** ./src/components/Todo.css ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-1!./Todo.css */ \"./node_modules/css-loader/dist/cjs.js?!./src/components/Todo.css\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/Todo.css?");
+
+/***/ }),
+
+/***/ "./src/components/Todo.js":
+/*!********************************!*\
+  !*** ./src/components/Todo.js ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Todo = __webpack_require__(/*! ./Todo.css */ \"./src/components/Todo.css\");\n\nvar _Todo2 = _interopRequireDefault(_Todo);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Todo = function Todo(props) {\n  return _react2.default.createElement(\n    \"li\",\n    { id: props.id },\n    props.text,\n    _react2.default.createElement(\n      \"button\",\n      {\n        className: _Todo2.default.removeItem,\n        onClick: function onClick() {\n          return props.remove(props.id);\n        }\n      },\n      \"Delete\"\n    )\n  );\n};\n\nexports.default = Todo;\n\n//# sourceURL=webpack:///./src/components/Todo.js?");
+
+/***/ }),
+
+/***/ "./src/components/TodoForm.css":
+/*!*************************************!*\
+  !*** ./src/components/TodoForm.css ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-1!./TodoForm.css */ \"./node_modules/css-loader/dist/cjs.js?!./src/components/TodoForm.css\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/TodoForm.css?");
+
+/***/ }),
+
+/***/ "./src/components/TodoForm.js":
+/*!************************************!*\
+  !*** ./src/components/TodoForm.js ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _TodoForm = __webpack_require__(/*! ./TodoForm.css */ \"./src/components/TodoForm.css\");\n\nvar _TodoForm2 = _interopRequireDefault(_TodoForm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError(\"this hasn't been initialised - super() hasn't been called\"); } return call && (typeof call === \"object\" || typeof call === \"function\") ? call : self; }\n\nfunction _inherits(subClass, superClass) { if (typeof superClass !== \"function\" && superClass !== null) { throw new TypeError(\"Super expression must either be null or a function, not \" + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }\n\nvar TodoForm = function (_React$Component) {\n  _inherits(TodoForm, _React$Component);\n\n  function TodoForm(props) {\n    _classCallCheck(this, TodoForm);\n\n    var _this = _possibleConstructorReturn(this, (TodoForm.__proto__ || Object.getPrototypeOf(TodoForm)).call(this, props));\n\n    _this.state = { value: \" \" };\n    _this.handleChange = _this.handleChange.bind(_this);\n    _this.handleSubmit = _this.handleSubmit.bind(_this);\n    return _this;\n  }\n\n  _createClass(TodoForm, [{\n    key: \"handleChange\",\n    value: function handleChange(event) {\n      this.setState({ value: event.target.value });\n    }\n  }, {\n    key: \"handleSubmit\",\n    value: function handleSubmit(event) {\n      if (this.state.value) {\n        this.props.addItem(this.state.value);\n        this.state.value = \"\";\n      } else {\n        alert(\"Please, enter the task name\");\n      }\n      event.preventDefault();\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      return _react2.default.createElement(\n        \"form\",\n        { className: _TodoForm2.default.TodoForm, onSubmit: this.handleSubmit },\n        _react2.default.createElement(\"input\", {\n          type: \"text\",\n          value: this.state.value,\n          onChange: this.handleChange,\n          placeholder: \"Your new task\"\n        }),\n        _react2.default.createElement(\n          \"button\",\n          { type: \"submit\" },\n          \"Add\"\n        )\n      );\n    }\n  }]);\n\n  return TodoForm;\n}(_react2.default.Component);\n\nexports.default = TodoForm;\n\n//# sourceURL=webpack:///./src/components/TodoForm.js?");
+
+/***/ }),
+
+/***/ "./src/components/TodoList.css":
+/*!*************************************!*\
+  !*** ./src/components/TodoList.css ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-1!./TodoList.css */ \"./node_modules/css-loader/dist/cjs.js?!./src/components/TodoList.css\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/TodoList.css?");
+
+/***/ }),
+
+/***/ "./src/components/TodoList.js":
+/*!************************************!*\
+  !*** ./src/components/TodoList.js ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Todo = __webpack_require__(/*! ./Todo */ \"./src/components/Todo.js\");\n\nvar _Todo2 = _interopRequireDefault(_Todo);\n\nvar _TodoList = __webpack_require__(/*! ./TodoList.css */ \"./src/components/TodoList.css\");\n\nvar _TodoList2 = _interopRequireDefault(_TodoList);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar TodoList = function TodoList(props) {\n  var items = props.data.map(function (item) {\n    return _react2.default.createElement(_Todo2.default, { key: item.id, id: item.id, text: item.text, remove: props.remove });\n  });\n\n  return _react2.default.createElement(\n    \"ul\",\n    { className: _TodoList2.default.TodoList },\n    items\n  );\n};\n\nexports.default = TodoList;\n\n//# sourceURL=webpack:///./src/components/TodoList.js?");
+
+/***/ }),
+
 /***/ "./src/containers/App.css":
 /*!********************************!*\
   !*** ./src/containers/App.css ***!
@@ -393,30 +484,7 @@ eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dis
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _uuid = __webpack_require__(/*! uuid */ \"./node_modules/uuid/index.js\");\n\nvar _uuid2 = _interopRequireDefault(_uuid);\n\nvar _App = __webpack_require__(/*! ./App.css */ \"./src/containers/App.css\");\n\nvar _App2 = _interopRequireDefault(_App);\n\nvar _Title = __webpack_require__(/*! ../components/Title */ \"./src/components/Title.js\");\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nvar _TodoList = __webpack_require__(/*! ./TodoList */ \"./src/containers/TodoList.js\");\n\nvar _TodoList2 = _interopRequireDefault(_TodoList);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError(\"this hasn't been initialised - super() hasn't been called\"); } return call && (typeof call === \"object\" || typeof call === \"function\") ? call : self; }\n\nfunction _inherits(subClass, superClass) { if (typeof superClass !== \"function\" && superClass !== null) { throw new TypeError(\"Super expression must either be null or a function, not \" + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }\n\n// ----------------- imports end ------------------------\n\nvar App = function (_React$Component) {\n  _inherits(App, _React$Component);\n\n  function App(props) {\n    _classCallCheck(this, App);\n\n    // set start state\n    var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));\n\n    _this.state = {\n      data: [{\n        id: 1,\n        text: \"Clean room\"\n      }, {\n        id: 2,\n        text: \"Wash the dishes\"\n      }, {\n        id: 3,\n        text: \"Feed my cat\"\n      }]\n    };\n    return _this;\n  }\n\n  // method: add new todo record\n\n\n  _createClass(App, [{\n    key: \"addTodo\",\n    value: function addTodo(val) {\n      var todo = {\n        text: val,\n        id: _uuid2.default.v4()\n      };\n      var data = [].concat(_toConsumableArray(this.state.data), [todo]);\n      this.setState({ data: data });\n    }\n\n    // method: remove todo record by filtering not to include given id\n\n  }, {\n    key: \"removeTodo\",\n    value: function removeTodo(id) {\n      var remainder = this.state.data.filter(function (todo) {\n        return todo.id !== id;\n      });\n      this.setState({ data: remainder });\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      // style.TodoApp - loader css\n      return _react2.default.createElement(\n        \"div\",\n        { className: _App2.default.TodoApp },\n        _react2.default.createElement(_Title2.default, {\n          title: \"Webpack practice: ToDo app\",\n          tasksNumber: this.state.data.length\n        }),\n        _react2.default.createElement(_TodoList2.default, { data: this.state.data, remove: this.removeTodo.bind(this) })\n      );\n    }\n  }]);\n\n  return App;\n}(_react2.default.Component);\n\n// ----------------- exports part below ------------------------\n\nexports.default = App;\n\n//# sourceURL=webpack:///./src/containers/App.js?");
-
-/***/ }),
-
-/***/ "./src/containers/TodoList.css":
-/*!*************************************!*\
-  !*** ./src/containers/TodoList.css ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("\nvar content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-1!./TodoList.css */ \"./node_modules/css-loader/dist/cjs.js?!./src/containers/TodoList.css\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/containers/TodoList.css?");
-
-/***/ }),
-
-/***/ "./src/containers/TodoList.js":
-/*!************************************!*\
-  !*** ./src/containers/TodoList.js ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _Todo = __webpack_require__(!(function webpackMissingModule() { var e = new Error(\"Cannot find module '..components/Todo'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()));\n\nvar _Todo2 = _interopRequireDefault(_Todo);\n\nvar _TodoList = __webpack_require__(/*! ./TodoList.css */ \"./src/containers/TodoList.css\");\n\nvar _TodoList2 = _interopRequireDefault(_TodoList);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar TodoList = function TodoList(props) {\n  var items = props.data.map(function (item) {\n    return _react2.default.createElement(_Todo2.default, { key: item.id, text: item.text, remove: props.remove });\n  });\n\n  return _react2.default.createElement(\n    \"ul\",\n    { className: _TodoList2.default.TodoList },\n    items\n  );\n};\n\nexports.default = TodoList;\n\n//# sourceURL=webpack:///./src/containers/TodoList.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _uuid = __webpack_require__(/*! uuid */ \"./node_modules/uuid/index.js\");\n\nvar _uuid2 = _interopRequireDefault(_uuid);\n\nvar _App = __webpack_require__(/*! ./App.css */ \"./src/containers/App.css\");\n\nvar _App2 = _interopRequireDefault(_App);\n\nvar _Title = __webpack_require__(/*! ../components/Title */ \"./src/components/Title.js\");\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nvar _TodoList = __webpack_require__(/*! ../components/TodoList */ \"./src/components/TodoList.js\");\n\nvar _TodoList2 = _interopRequireDefault(_TodoList);\n\nvar _TodoForm = __webpack_require__(/*! ../components/TodoForm */ \"./src/components/TodoForm.js\");\n\nvar _TodoForm2 = _interopRequireDefault(_TodoForm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError(\"this hasn't been initialised - super() hasn't been called\"); } return call && (typeof call === \"object\" || typeof call === \"function\") ? call : self; }\n\nfunction _inherits(subClass, superClass) { if (typeof superClass !== \"function\" && superClass !== null) { throw new TypeError(\"Super expression must either be null or a function, not \" + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }\n\n// ----------------- imports end ------------------------\n\nvar App = function (_React$Component) {\n  _inherits(App, _React$Component);\n\n  function App(props) {\n    _classCallCheck(this, App);\n\n    // set start state\n    var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));\n\n    _this.state = {\n      data: [{\n        id: 1,\n        text: \"Clean room\"\n      }, {\n        id: 2,\n        text: \"Wash the dishes\"\n      }, {\n        id: 3,\n        text: \"Feed my cat\"\n      }]\n    };\n    return _this;\n  }\n\n  // method: add new todo record\n\n\n  _createClass(App, [{\n    key: \"addTodo\",\n    value: function addTodo(val) {\n      var todo = {\n        text: val,\n        id: _uuid2.default.v4()\n      };\n      var data = [].concat(_toConsumableArray(this.state.data), [todo]);\n      this.setState({ data: data });\n    }\n\n    // method: remove todo record by filtering not to include given id\n\n  }, {\n    key: \"removeTodo\",\n    value: function removeTodo(id) {\n      var remainder = this.state.data.filter(function (todo) {\n        return todo.id !== id;\n      });\n      this.setState({ data: remainder });\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      // style.TodoApp - loader css\n      return _react2.default.createElement(\n        \"div\",\n        { className: _App2.default.TodoApp },\n        _react2.default.createElement(_Title2.default, {\n          title: \"Webpack practice: ToDo app\",\n          tasksNumber: this.state.data.length\n        }),\n        _react2.default.createElement(_TodoForm2.default, { addItem: this.addTodo.bind(this) }),\n        _react2.default.createElement(_TodoList2.default, { data: this.state.data, remove: this.removeTodo.bind(this) })\n      );\n    }\n  }]);\n\n  return App;\n}(_react2.default.Component);\n\n// ----------------- exports part below ------------------------\n\nexports.default = App;\n\n//# sourceURL=webpack:///./src/containers/App.js?");
 
 /***/ }),
 
