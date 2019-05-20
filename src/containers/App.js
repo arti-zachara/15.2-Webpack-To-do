@@ -2,8 +2,8 @@ import React from "react";
 import uuid from "uuid";
 import style from "./App.css";
 import Title from "../components/Title";
-import TodoList from "./TodoList";
-import TodoForm from "./TodoForm";
+import TodoList from "../components/TodoList";
+import TodoForm from "../components/TodoForm";
 // ----------------- imports end ------------------------
 
 class App extends React.Component {
