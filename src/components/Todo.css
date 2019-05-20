@@ -1,0 +1,21 @@
+li {
+  margin: 2px auto;
+  padding: 3px 6px;
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #8b488b;
+  border-radius: 5px;
+  background-color: #d0b3d0;
+  font-size: 20px;
+  font-weight: bold;
+  color: #4f084f;
+}
+
+li button.removeItem {
+  margin-left: 10px;
+  padding: 5px;
+  color: #4f084f;
+  font-weight: bold;
+  border: solid 1px #8b488b;
+  border-radius: 5px;
+}
