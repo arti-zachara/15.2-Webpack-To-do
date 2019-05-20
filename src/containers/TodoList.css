@@ -1,0 +1,26 @@
+ul {
+  padding: 0;
+  list-style-type: none;
+  width: 300px;
+  max-width: 80vw;
+  font-size: 20px;
+}
+
+ul li {
+  margin: 2px auto;
+  padding: 3px;
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #8b488b;
+  border-radius: 5px;
+  background-color: #d0b3d0;
+}
+
+ul button {
+  margin: 0 15px;
+  padding: 5px;
+  color: #4f084f;
+  font-weight: bold;
+  border: solid 1px #8b488b;
+  border-radius: 5px;
+}

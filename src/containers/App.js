@@ -2,13 +2,28 @@ import React from "react";
 import uuid from "uuid";
 import style from "./App.css";
 import Title from "../components/Title";
+import TodoList from "./TodoList";
 // ----------------- imports end ------------------------
 
 class App extends React.Component {
   constructor(props) {
     super(props);
+    // set start state
     this.state = {
-      data: []
+      data: [
+        {
+          id: 1,
+          text: "Clean room"
+        },
+        {
+          id: 2,
+          text: "Wash the dishes"
+        },
+        {
+          id: 3,
+          text: "Feed my cat"
+        }
+      ]
     };
   }
 
@@ -36,6 +51,7 @@ class App extends React.Component {
           title="Webpack practice: ToDo app"
           tasksNumber={this.state.data.length}
         />
+        <TodoList data={this.state.data} remove={this.removeTodo.bind(this)} />
       </div>
     );
   }
