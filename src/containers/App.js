@@ -3,6 +3,7 @@ import uuid from "uuid";
 import style from "./App.css";
 import Title from "../components/Title";
 import TodoList from "./TodoList";
+import TodoForm from "./TodoForm";
 // ----------------- imports end ------------------------
 
 class App extends React.Component {
@@ -51,6 +52,7 @@ class App extends React.Component {
           title="Webpack practice: ToDo app"
           tasksNumber={this.state.data.length}
         />
+        <TodoForm addItem={this.addTodo.bind(this)} />
         <TodoList data={this.state.data} remove={this.removeTodo.bind(this)} />
       </div>
     );
